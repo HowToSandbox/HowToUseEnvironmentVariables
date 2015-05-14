@@ -1,0 +1,6 @@
+To use the default, do this:
+ruby use_en_var.rb 
+
+
+To pass in something, do this:
+ARG1="test" ruby use_en_var.rb 
